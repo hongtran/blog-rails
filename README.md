@@ -1,6 +1,5 @@
 # Pre-work - hongblog
 
-
 hongblog is a Ruby on Rails blog application.
 
 Submitted by: Tran Phi Hong
